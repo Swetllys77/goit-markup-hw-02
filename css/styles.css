@@ -1,0 +1,32 @@
+body {
+    font-family: 'roboto', sans-serif;
+    font-style: normal;
+    color: #434455;
+}
+
+.nav-logo {
+    font-family: "Raleway", sans-serif;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 1.33;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: var(--nav-logo-color, #4d5ae5);
+}
+
+.nav-studio {
+    color: var(--nav-studio-color, #2e2f42);
+}
+
+.nav-item {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: var(--nav-item-color, #2e2f42);
+    text-decoration: none;
+}
+
+.nav-menu {
+    list-style: none;
+}
